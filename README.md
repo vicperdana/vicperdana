@@ -7,3 +7,4 @@ My name is Vic Perdana, currently working as a Customer Engineer at Microsoft.
 - [PSDocs-vscode](https://github.com/Microsoft/PSDocs-vscode): a Visual Studio code extension for PSDocs.Azure
 - [PSDocs.Azure](https://github.com/Azure/PSDocs.Azure): Generate documentation from Azure infrastructure as code (IaC) artifacts.
 
+Visit [my blog](https://blog.vicperdana.com). 
