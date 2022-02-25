@@ -17,8 +17,8 @@ Visit [my blog](https://blog.vicperdana.com) - note: blog is currently under con
 ## 💼 Skills
 
 
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-.NET-informational?style=for-the-badge&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
