@@ -1,5 +1,9 @@
+[![Visits Badge](https://badges.pufler.dev/visits/vicperdana/vicperdana)](https://github.com/vicperdana)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vperdana)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vperdana/)
+
 ### Hi there 👋
-My name is Vic Perdana, currently working as a Cloud Solution Architect at Microsoft. 
+I am Vic, a senior Cloud Architect currently working at Microsoft. 
 
 ⚡ I’m an avid learner on anything DevOps, Cloud-Native, and Open Source.
 
@@ -8,3 +12,15 @@ My name is Vic Perdana, currently working as a Cloud Solution Architect at Micro
 - [PSDocs.Azure](https://github.com/Azure/PSDocs.Azure): Generate documentation from Azure infrastructure as code (IaC) artifacts.
 
 Visit [my blog](https://blog.vicperdana.com) - note: blog is currently under construction 🚧.
+
+
+## 💼 Skills
+
+
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
