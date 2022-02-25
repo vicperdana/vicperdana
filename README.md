@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vperdana/)
 
 ### Hi there 👋
-I am Vic, a senior Cloud Architect currently working at Microsoft. 
+I am Vic Perdana, a senior Cloud Architect currently working at Microsoft. 
 
 ⚡ I’m an avid learner on anything DevOps, Cloud-Native, and Open Source.
 
