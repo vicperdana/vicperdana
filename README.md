@@ -5,7 +5,7 @@
 ### Hi there 👋
 I am Vic Perdana, a senior Cloud Architect currently working at Microsoft. 
 
-⚡ I’m an avid learner on anything DevOps, Cloud-Native, and Open Source.
+⚡ I’m an avid learner on anything DevOps, Cloud-Native, and Generative AI.  I run the APAC/ANZ Public Office Hours for [Semantic Kernel SDK](https://aka.ms/semantic-kernel), an open source project to enable developers build advanced applications using Large Language Models. Review recordings of previous sessions on [YouTube](https://aka.ms/sk/officehours/recordings).
 
 🔭 I’m a maintainer and contributor to the following projects:
 - [PSDocs-vscode](https://github.com/Microsoft/PSDocs-vscode): a Visual Studio code extension for PSDocs.Azure
