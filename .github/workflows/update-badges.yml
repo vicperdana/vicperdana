@@ -15,5 +15,5 @@ jobs:
         with:
           COMMIT_MESSAGE: "Updated with latest badges"
           CREDLY_USER: ${{ secrets.CREDLY_USER }} 
-          NUMBER_LAST_BADGES: 10
+          NUMBER_LAST_BADGES: 20
             
