@@ -1,0 +1,19 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@2.4.0
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "Updated with latest badges"
+          CREDLY_USER: ${{ secrets.CREDLY_USER }} 
+          NUMBER_LAST_BADGES: 10
+            
