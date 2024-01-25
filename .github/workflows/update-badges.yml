@@ -13,7 +13,6 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.4.0
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "Updated with latest badges"
           CREDLY_USER: ${{ secrets.CREDLY_USER }} 
           NUMBER_LAST_BADGES: 10
