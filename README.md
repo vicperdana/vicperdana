@@ -2,6 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vperdana)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vperdana/)
 [![Credly Badge](https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=fff&style=flat)](https://www.credly.com/users/vicky-perdana) 
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/vicperdana/)
 <!--START_SECTION:badges-->
 [![Learn contributor 2023Q3](https://images.credly.com/size/110x110/images/33e4467a-afaa-4135-9d4a-565e18e27001/image.png)](http://www.credly.com/badges/d1d29f80-9330-46de-8694-39c7e18e22b1 "Learn contributor 2023Q3")
 [![Microsoft Global Hackathon 2023](https://images.credly.com/size/110x110/images/690dd7e4-e88a-4e4e-8681-f3b9d1119b2e/image.png)](http://www.credly.com/badges/b8e699aa-f542-41be-b6d0-9110e45f71c4 "Microsoft Global Hackathon 2023")
