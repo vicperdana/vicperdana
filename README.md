@@ -37,3 +37,5 @@ Visit [my blog](https://blog.vicperdana.com) - note: blog is currently under con
 ![](https://img.shields.io/badge/--019733?label=Vim&style=for-the-badge&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/--5391FE?label=PowerShell&style=for-the-badge&logo=powershell&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicperdana)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicperdana&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
