@@ -19,6 +19,7 @@ I am Vic Perdana, a senior Cloud Architect currently working at Microsoft.
 :rocket: I run the APAC/ANZ Public Office Hours for [Semantic Kernel SDK](https://aka.ms/semantic-kernel), an open source project to enable developers build advanced applications using Large Language Models. Review recordings of previous sessions on [YouTube](https://aka.ms/sk/officehours/recordings).
 
 🔭 I’m a maintainer and contributor to the following projects:
+- [AspireShopWithSemanticKernel](https://github.com/vicperdana/AspireShopWithSemanticKernel): a sample project demonstrating how to "power up" your shopping cart application with AI powered by .NET Aspire and Semantic Kernel
 - [PSDocs-vscode](https://github.com/Microsoft/PSDocs-vscode): a Visual Studio code extension for PSDocs.Azure
 - [PSDocs.Azure](https://github.com/Azure/PSDocs.Azure): Generate documentation from Azure infrastructure as code (IaC) artifacts.
 
