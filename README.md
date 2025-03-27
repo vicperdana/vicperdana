@@ -12,11 +12,11 @@
 <!--END_SECTION:badges-->
 
 ### Hi there 👋
-I am Vic Perdana, a senior Cloud Architect currently working at Microsoft. 
+I am Vic Perdana, an AppDev Architect currently working at Microsoft. 
 
 ⚡ I’m an avid learner on anything DevOps, Cloud-Native, and Generative AI.  <br/>
 
-:rocket: I run the APAC/ANZ Public Office Hours for [Semantic Kernel SDK](https://aka.ms/semantic-kernel), an open source project to enable developers build advanced applications using Large Language Models. Review recordings of previous sessions on [YouTube](https://aka.ms/sk/officehours/recordings).
+:rocket: I kicked off the APAC/ANZ Public Office Hours for [Semantic Kernel SDK](https://aka.ms/semantic-kernel), an open source project to enable developers build advanced applications using Large Language Models. Review recordings of previous sessions on [YouTube](https://aka.ms/sk/officehours/recordings).
 
 🔭 I’m a maintainer and contributor to the following projects:
 - [AspireShopWithSemanticKernel](https://github.com/vicperdana/AspireShopWithSemanticKernel): a sample project demonstrating how to "power up" your shopping cart application with AI powered by .NET Aspire and Semantic Kernel.
