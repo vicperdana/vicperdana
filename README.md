@@ -11,20 +11,33 @@
 [![Connected Communities - Subject Matter Expert 2022](https://images.credly.com/size/110x110/images/ed16b828-9f80-48c5-b05e-c1a6d08193eb/image.png)](http://www.credly.com/badges/d436599e-2a12-4c2b-b4e4-23b98ad3c8ca "Connected Communities - Subject Matter Expert 2022")
 <!--END_SECTION:badges-->
 
-### Hi there 👋
-I am Vic Perdana, an AppDev Architect currently working at Microsoft. 
+# Hi there 👋
+## I'm an [AppDev Architect](https://linkedin.com/in/vperdana) currently working at Microsoft. ##
 
-⚡ I’m an avid learner on anything DevOps, Cloud-Native, and Generative AI.  <br/>
+⚡ As a software architect and engineer, Vic started his career working in many different industries, non-profit and profit organisations spanning telco, financial, entertainment, and energy & manufacturing industries. I bridge engineering innovations with real-world business outcomes through AI, cloud-native development, and open source. Vic mostly focuses on:
+* [Azure](https://azure.microsoft.com/) 👉 The most comprehensive cloud service platform,
+* [.NET](https://dotnet.microsoft.com/) 👉 The most high-performing programming language, and
+* [Semantic Kernel](http://aka.ms/semantic-kernel) 👉 The most flexible way to infuse agents into your apps.
+<br/>
 
 :rocket: I kicked off the APAC/ANZ Public Office Hours for [Semantic Kernel SDK](https://aka.ms/semantic-kernel), an open source project to enable developers build advanced applications using Large Language Models. Review recordings of previous sessions on [YouTube](https://aka.ms/sk/officehours/recordings).
 
+## I'm currently... ##
 🔭 I’m a maintainer and contributor to the following projects:
+- [SemantiClip](https://github.com/vicperdana/SemantiClip): a sample project processing application that transforms video content into rich, structured written formats. Built with Semantic Kernel Agent and Process Frameworks, SemantiClip automates the transcription, segmentation, and content generation process - demonstrating agents orchestration with the use of SLM & LLM.
 - [AspireShopWithSemanticKernel](https://github.com/vicperdana/AspireShopWithSemanticKernel): a sample project demonstrating how to "power up" your shopping cart application with AI powered by .NET Aspire and Semantic Kernel.
 - [PSDocs](https://github.com/Microsoft/PSDocs): Generate documentation from Infrastructure as Code (IaC).
 - [PSDocs-vscode](https://github.com/Microsoft/PSDocs-vscode): a Visual Studio code extension for PSDocs.Azure.
 - [PSDocs.Azure](https://github.com/Azure/PSDocs.Azure): Generate documentation from Azure infrastructure as code (IaC) artifacts.
 
 Visit [my blog](https://blog.vicperdana.com)
+
+## Here are my ... ##
+
+* 😄 Pronouns: he/his/him
+* ⚡ Fun facts:
+  * Before being a software architect, I was a tutor at University
+  * Before a tennis fan, I rooted for Roma football club
 
 
 ## 💼 Skills
