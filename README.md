@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/vicperdana/vicperdana)](https://github.com/vicperdana)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvicperdana%2Fvicperdana%2F&labelColor=%23697689&countColor=%2337d67a&style=flat)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vperdana)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vperdana/)
 [![Credly Badge](https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=fff&style=flat)](https://www.credly.com/users/vicky-perdana) 
