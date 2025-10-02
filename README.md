@@ -12,7 +12,7 @@
 <!--END_SECTION:badges-->
 
 # Hi there 👋
-## I'm an [AppDev Architect](https://linkedin.com/in/vperdana) currently working at Microsoft. ##
+## I'm a [Software Solution Engineer](https://linkedin.com/in/vperdana) currently working at Microsoft. ##
 
 ⚡ As a software architect and engineer, Vic started his career working in many different industries, non-profit and profit organisations spanning telco, financial, entertainment, and energy & manufacturing industries. I bridge engineering innovations with real-world business outcomes through AI, cloud-native development, and open source. Vic mostly focuses on:
 * [Azure](https://azure.microsoft.com/) 👉 The most comprehensive cloud service platform,
