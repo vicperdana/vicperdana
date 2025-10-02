@@ -15,9 +15,10 @@
 ## I'm a [Software Solution Engineer](https://linkedin.com/in/vperdana) currently working at Microsoft. ##
 
 ⚡ As a software architect and engineer, Vic started his career working in many different industries, non-profit and profit organisations spanning telco, financial, entertainment, and energy & manufacturing industries. I bridge engineering innovations with real-world business outcomes through AI, cloud-native development, and open source. Vic mostly focuses on:
+* [GitHub](https://github.com) 👉 The most advanced Software Development Lifecycle (SDLC) platform,
 * [Azure](https://azure.microsoft.com/) 👉 The most comprehensive cloud service platform,
 * [.NET](https://dotnet.microsoft.com/) 👉 The most high-performing programming language, and
-* [Semantic Kernel](http://aka.ms/semantic-kernel) 👉 The most flexible way to infuse agents into your apps.
+* [Agent Framework](https://github.com/microsoft/agent-framework) 👉 The most flexible way to infuse agents into your apps.
 <br/>
 
 :rocket: I kicked off the APAC/ANZ Public Office Hours for [Semantic Kernel SDK](https://aka.ms/semantic-kernel), an open source project to enable developers build advanced applications using Large Language Models. Review recordings of previous sessions on [YouTube](https://aka.ms/sk/officehours/recordings).
