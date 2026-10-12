@@ -3,13 +3,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vperdana/)
 [![Credly Badge](https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=fff&style=flat)](https://www.credly.com/users/vicky-perdana) 
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/vicperdana/)
-<!--START_SECTION:badges-->
-[![Learn contributor 2023Q3](https://images.credly.com/size/110x110/images/33e4467a-afaa-4135-9d4a-565e18e27001/image.png)](http://www.credly.com/badges/d1d29f80-9330-46de-8694-39c7e18e22b1 "Learn contributor 2023Q3")
-[![Microsoft Global Hackathon 2023](https://images.credly.com/size/110x110/images/690dd7e4-e88a-4e4e-8681-f3b9d1119b2e/image.png)](http://www.credly.com/badges/b8e699aa-f542-41be-b6d0-9110e45f71c4 "Microsoft Global Hackathon 2023")
-[![Microsoft Certified: Azure AI Engineer Associate](https://images.credly.com/size/110x110/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png)](http://www.credly.com/badges/dc0f451f-9816-40f8-b627-53976f3b4370 "Microsoft Certified: Azure AI Engineer Associate")
-[![Microsoft Certified: Azure Cosmos DB Developer Specialty](https://images.credly.com/size/110x110/images/515fa1dc-ac4a-4f08-ac73-6fd9694124cb/image.png)](http://www.credly.com/badges/18c345cb-e08a-479d-b090-f38671b4c223 "Microsoft Certified: Azure Cosmos DB Developer Specialty")
-[![Connected Communities - Subject Matter Expert 2022](https://images.credly.com/size/110x110/images/ed16b828-9f80-48c5-b05e-c1a6d08193eb/image.png)](http://www.credly.com/badges/d436599e-2a12-4c2b-b4e4-23b98ad3c8ca "Connected Communities - Subject Matter Expert 2022")
-<!--END_SECTION:badges-->
 
 # Hi there 👋
 ## I'm a [Software Solution Engineer](https://linkedin.com/in/vperdana) currently working at Microsoft. ##
